@@ -1,0 +1,161 @@
+.navigation{
+  font-family: ;
+  color: whitesmoke;
+}
+
+ul{
+  list-style: none;
+}
+
+body {
+  background-image: url("http://static1.squarespace.com/static/558b156ee4b050b2d0e1797b/t/559429c1e4b0b32d29a69c4a/1473363495897/?format=1500w");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.flex-container {
+  
+  align: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  width: 1300px;
+  margin: 0 auto;
+
+}
+
+.navigation{
+  font-family: ;
+  color:black;
+}
+
+ul{
+  list-style: none;
+  list-style-type: none;
+  color: white;
+
+
+}
+
+
+
+
+nav a {
+  color: black;
+  text-decoration: none;
+  padding-bottom: 5px;
+  
+  }
+
+  .painting{
+    padding: 30px 30px 30px 30px;
+  }
+
+.navigation{
+  padding-top: 10px;
+
+}
+
+
+
+
+.flex-container-2{
+ 
+  width: 1300px;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  padding-left: 350px;
+  padding-bottom: 50px;
+  
+}
+
+.boxed-1{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.white-box{
+  background-color: whitesmoke;
+}
+
+
+p{
+
+  padding: 80px 100px 80px 100px;
+}
+
+
+a:hover { 
+  background-color:goldenrod;
+}
+
+
+.one{
+  margin: 20px;
+}
+
+.two{
+  margin: 20px;
+}
+
+.three{
+  margin: 20px;
+}
+
+.four{
+  margin: 20px;
+}
+
+.five{
+  margin: 20px;
+}
+
+.six{
+  margin: 20px;
+}
+
+.seven{
+  margin: 20px;
+}
+
+.eight{
+  margin: 20px;
+}
+
+.nine{
+  margin: 20px;
+}
+
+.ten{
+  margin: 20px;
+}
+
+.eleven{
+  margin: 20px;
+}
+
+.twelve{
+  margin: 20px;
+}
+
+
+.thirteen{
+  margin: 20px;
+}
+
+.fourteen{
+  margin: 20px;
+}
+
+.fifteen{
+  margin: 20px;
+}
+
+.sixteen{
+  margin: 20px;
+}

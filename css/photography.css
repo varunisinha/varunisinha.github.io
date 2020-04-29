@@ -1,0 +1,196 @@
+.navigation{
+  font-family: ;
+  color: whitesmoke;
+}
+
+ul{
+  list-style: none;
+}
+
+body {
+  background-image: url("http://static1.squarespace.com/static/558b156ee4b050b2d0e1797b/t/559429c1e4b0b32d29a69c4a/1473363495897/?format=1500w");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.flex-container {
+  
+  align: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  width: 1300px;
+  margin: 0 auto;
+
+}
+
+.navigation{
+  font-family: ;
+  color:black;
+}
+
+ul{
+  list-style: none;
+  list-style-type: none;
+  color: white;
+
+
+}
+
+
+
+
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding-bottom: 5px;
+  
+  }
+
+  h1{
+    color:white;
+  }
+
+  .painting{
+    padding: 30px 30px 30px 30px;
+  }
+
+.navigation{
+  padding-top: 10px;
+
+}
+
+
+
+
+.flex-container-2{
+ 
+  width: 1300px;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  padding-left: 350px;
+  padding-bottom: 50px;
+  
+}
+
+.boxed-1{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.white-box{
+  background-color: whitesmoke;
+}
+
+
+p{
+
+  padding: 80px 100px 80px 100px;
+}
+
+
+{box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+
+a:hover { 
+  background-color:goldenrod;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
